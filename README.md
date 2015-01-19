@@ -1,0 +1,2 @@
+# blogger
+Simple rails blogger
